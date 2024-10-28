@@ -10,7 +10,7 @@
     <header>
         <div class="container">
             <h1>Your Name</h1>
-            <p>Web Developer | Designer | Your Role</p>
+            <p>Writer | Public Speaker | Social Media Manager</p>
             <nav>
                 <ul>
                     <li><a href="#projects">Projects</a></li>
